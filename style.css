@@ -2,6 +2,10 @@ body {
 	background-color: #F1FAEE;
   margin: 0;
 }
+img {
+	height: 200 px;
+}
+
 
 h1 {
   font-family: 'Times New Roman';
