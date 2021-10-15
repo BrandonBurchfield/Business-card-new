@@ -25,6 +25,15 @@ p {
   font-family:'Times New Roman', Times, serif;
   font-size: 16px;
 }
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: yellow; }
+a:active  { color: green;  }
 
 footer {
 	text-align: center;	
